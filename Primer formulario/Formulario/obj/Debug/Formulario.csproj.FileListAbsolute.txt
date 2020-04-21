@@ -1,0 +1,10 @@
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\bin\Debug\Formulario.exe
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.exe
+C:\Users\Terriand\source\repos\ConsoleApp1\Formulario\obj\Debug\Formulario.pdb
