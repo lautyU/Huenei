@@ -1,0 +1,14 @@
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Conexiones.dll
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Producto.dll
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Conexiones.pdb
+C:\Users\Gerniroz\source\repos\Productos\Productos\bin\Debug\Producto.pdb
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.Form1.resources
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\Gerniroz\source\repos\Productos\Productos\obj\Debug\Productos.pdb

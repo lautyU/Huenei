@@ -1,0 +1,5 @@
+C:\Users\Gerniroz\source\repos\Productos\Producto\bin\Debug\Producto.dll
+C:\Users\Gerniroz\source\repos\Productos\Producto\bin\Debug\Producto.pdb
+C:\Users\Gerniroz\source\repos\Productos\Producto\obj\Debug\Producto.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\Productos\Producto\obj\Debug\Producto.dll
+C:\Users\Gerniroz\source\repos\Productos\Producto\obj\Debug\Producto.pdb

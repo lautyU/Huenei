@@ -1,0 +1,8 @@
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\bin\Debug\Producto.dll
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\bin\Debug\Producto.pdb
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\obj\Debug\Conexiones.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\obj\Debug\Conexiones.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Gerniroz\source\repos\Productos\Conexiones\obj\Debug\Conexiones.pdb
