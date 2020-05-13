@@ -1,0 +1,3 @@
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\WindowsFormsApp1\obj\Debug\Negocios.csproj.GenerateResource.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\WindowsFormsApp1\obj\Debug\Negocios.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+C:\Users\USER\Source\Repos\MyProject\Domain\bin\Debug\Domain.dll
+C:\Users\USER\Source\Repos\MyProject\Domain\bin\Debug\Domain.pdb
+C:\Users\USER\Source\Repos\MyProject\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\MyProject\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\MyProject\Domain\obj\Debug\Domain.dll
+C:\Users\USER\Source\Repos\MyProject\Domain\obj\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller -\Domain\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller -\Domain\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller -\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller -\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller -\Domain\obj\Debug\Domain.dll
+C:\Users\USER\source\repos\taller -\Domain\obj\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - zip\Domain\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - zip\Domain\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - zip\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - zip\Domain\obj\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - zip\Domain\obj\Debug\Domain.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\Domain\bin\Debug\Domain.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\Domain\bin\Debug\Domain.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\Domain\obj\Debug\Domain.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\Domain\obj\Debug\Domain.pdb

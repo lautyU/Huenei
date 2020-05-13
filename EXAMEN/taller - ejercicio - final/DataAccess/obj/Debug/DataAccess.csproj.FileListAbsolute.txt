@@ -1,0 +1,53 @@
+C:\Users\USER\Source\Repos\MyProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\USER\Source\Repos\MyProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\USER\Source\Repos\MyProject\DataAccess\bin\Debug\Domain.dll
+C:\Users\USER\Source\Repos\MyProject\DataAccess\bin\Debug\Domain.pdb
+C:\Users\USER\Source\Repos\MyProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\MyProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\MyProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\USER\Source\Repos\MyProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\USER\Source\Repos\MyProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - copia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - copia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - copia\DataAccess\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - copia\DataAccess\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - copia\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller - copia\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - copia\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - copia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - copia\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller -\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller -\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller -\DataAccess\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller -\DataAccess\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller -\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller -\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller -\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\taller -\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller -\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - zip\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - zip\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - zip\DataAccess\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - zip\DataAccess\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - zip\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller - zip\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - zip\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - zip\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - zip\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\Domain.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\Domain.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\Domain.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\DataAccess\obj\Debug\DataAccess.pdb

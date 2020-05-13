@@ -1,0 +1,65 @@
+C:\Users\USER\source\repos\MyProject\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\MyProject\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\Source\Repos\MyProject\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - copia\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller -\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\USER\source\repos\taller - zip\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\abarreiro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\Domain.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\bin\Debug\Domain.pdb
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\Terriand\Desktop\Nueva carpeta\taller - ejercicio - final\taller - ejercicio - final\BussinesLogic\obj\Debug\BussinesLogic.pdb

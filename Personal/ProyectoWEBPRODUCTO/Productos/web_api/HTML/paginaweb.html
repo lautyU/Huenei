@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../CSS/estilo.css" rel="stylesheet" />
+    <script src="../Scripts/Script.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.0.min.js" type="text/javascript"></script>
+    <title>Formulario web</title>
+</head>
+<body style="height: 499px">
+
+    <div class="container">
+        <div class="form_top">
+            <h2>Productos <span>Registro</span></h2>
+        </div>
+        <form class="form_reg" action="">
+            <input id="id" type="text" name="product_id" required autofocus />
+            <input class="input" id="Nombre" type="text" placeholder="&#9919;Nombre" required autofocus>
+            <input class="input" id="Descripcion" type="text" placeholder="&#127288;Descripcion" required autofocus>
+            <input class="input" id="Precio" type="text" placeholder="&#36;Precio" required autofocus>
+            <input class="input" id="Stock" type="text" placeholder="&#9744;Stock" required autofocus>
+            <div class="btn_form">
+                <button id="btnguardar" type="button" value="GUARDAR">GUARDAR</button>
+                <button id="btneliminar" type="button" value="LIMPIAR">ELIMINAR</button>
+                <button id="btncancelar" type="button" value="CANCELAR">CANCELAR</button>
+            </div>
+
+        </form>
+        <div id="gvProducts"></div>
+
+    </div>
+</body>
+</html>

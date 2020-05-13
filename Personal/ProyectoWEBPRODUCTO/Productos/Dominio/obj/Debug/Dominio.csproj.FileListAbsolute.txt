@@ -1,0 +1,4 @@
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache

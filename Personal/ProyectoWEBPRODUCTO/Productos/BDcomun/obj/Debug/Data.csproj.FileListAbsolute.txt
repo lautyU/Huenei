@@ -1,0 +1,4 @@
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\BDcomun\obj\Debug\Data.csprojAssemblyReference.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\BDcomun\obj\Debug\BDcomun.Properties.Resources.resources
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\BDcomun\obj\Debug\Data.csproj.GenerateResource.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\BDcomun\obj\Debug\Data.csproj.CoreCompileInputs.cache

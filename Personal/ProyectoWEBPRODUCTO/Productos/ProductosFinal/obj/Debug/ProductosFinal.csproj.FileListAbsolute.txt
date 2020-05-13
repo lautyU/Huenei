@@ -1,0 +1,9 @@
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\bin\Debug\ProductosFinal.exe.config
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\bin\Debug\ProductosFinal.exe
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\bin\Debug\ProductosFinal.pdb
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.csprojAssemblyReference.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.Properties.Resources.resources
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.csproj.GenerateResource.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.csproj.CoreCompileInputs.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.exe
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\ProductosFinal\obj\Debug\ProductosFinal.pdb

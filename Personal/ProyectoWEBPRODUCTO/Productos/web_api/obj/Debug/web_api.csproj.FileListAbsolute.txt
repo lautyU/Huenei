@@ -1,0 +1,2 @@
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\web_api\obj\Debug\web_api.csprojAssemblyReference.cache
+F:\GITHUB\SQL\Huenei\Personal\ProyectoWEBPRODUCTO\Productos\web_api\obj\Debug\web_api.csproj.CoreCompileInputs.cache
